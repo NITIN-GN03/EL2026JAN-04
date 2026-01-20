@@ -68,5 +68,3 @@ This project provides an analysis of password security and authentication mechan
 This project is for educational and informational purposes.
 
 ---
-
-If you want this README customized for **Python, Java, web applications, or cybersecurity coursework**, tell me the context and I will tailor it precisely.
